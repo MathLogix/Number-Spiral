@@ -1,10 +1,3 @@
 # Number-Spiral
-5 ← 4 ← 3
 
-↓       ↑
-
-6   1 → 2
-
-↓
-
-7 → 8 → 9
+↓![Spiral](https://github.com/user-attachments/assets/eb2c37a4-db5d-4dad-8198-4056060e898f)
