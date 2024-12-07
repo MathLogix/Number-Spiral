@@ -1,3 +1,3 @@
 # Number-Spiral
 
-↓![Spiral](https://github.com/user-attachments/assets/eb2c37a4-db5d-4dad-8198-4056060e898f)
+![#spiral](https://github.com/user-attachments/assets/378d9044-9909-4fa0-98e1-290719f74575)
