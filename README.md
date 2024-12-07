@@ -1,3 +1,5 @@
 # Number-Spiral
 
-![#spiral](https://github.com/user-attachments/assets/378d9044-9909-4fa0-98e1-290719f74575)
+![#spiral](https://github.com/user-attachments/assets/4d8f09a1-1d46-414f-8e59-355a95eabfca)
+
+Normal and prime spiral code in python
